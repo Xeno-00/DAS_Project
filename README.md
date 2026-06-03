@@ -1,9 +1,13 @@
 # DAS_Project
 Distributed Autonomous Systems' final project.
 
+
 The project is divided into 2 main parts: 
+
 Task 1 – Multi-Robot Target Localization
+
 Task 2 – Aggregative Optimization for Multi-Robot Systems
+
 
 See the "Project" folder for a detailed README about the project and the codes.
 
